@@ -1,0 +1,94 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+}
+*:hover{
+    transition: all .6s;
+}
+a{
+    text-decoration: none;
+}
+header a,
+footer a{
+    color: #fff;
+    font-weight: 700 !important;
+}
+header .nav-link{
+    text-transform: uppercase;
+}
+header .navbar-nav{
+    margin-left: 114px;
+}
+.main{
+    color: #fff;
+    background: #0EB4C1;
+}
+main a{
+    color: #fff !important;
+}
+.info .info-title{
+    font-size: 24px;
+    margin: 24px 0px;
+}
+.info-bottom{
+    font-weight: 400;
+    font-size: 16px;
+}
+.info-img {
+    margin-right: 64px;
+}
+.btn-danger{
+    width: 189px;
+    height: 47px;
+    border-radius: 8px;
+}
+header .btn-danger:hover{
+    color: #DE2E54;
+    background: #FFFFFF;
+    border: 2px solid #DE2E54;
+}
+.bottom{
+    background: #0EB4C1;
+}
+.bottom .btn-white{
+    margin-right: 40px;
+}
+.bottom .btn-white a{
+    color: #fff !important;
+}
+.bottom .btn-white:hover{
+    background: #DE2E54;
+    border: 2px solid #DE2E54;
+}
+.bottom .btn-white{
+
+    
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.btn-danger{
+    color: #fff !important;
+}
+footer a{
+    color: #fff !important;
+}
+.footer a:hover,
+header a:hover{
+    color: #DE2E54 !important;
+}
+.info .btn-danger:hover{
+    background: #FFFFFF;
+    border: 2px solid #DE2E54;
+}
+.info .btn-danger a:hover,
+.info .btn-danger:hover a
+{
+    color: #DE2E54 !important;
+}
+.nav-link.active,
+.navbar-brand{
+    color: #DE2E54 !important;
+}
+/* .main{
+    padding-left: 20px;
+} */
